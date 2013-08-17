@@ -11,7 +11,7 @@ typedef struct processus{
 
                             int prio;
 
-                            //char *adresse;
+                            //char *adresse; pointeur
 
                         }proc;
 proc ini (int id, int te, int prio)
