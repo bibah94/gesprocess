@@ -106,6 +106,9 @@ int main ()
 
 
     }
+<<<<<<< HEAD
+    printf("Le TMGA est : %.2f", float(som)/n);
+=======
     printf("Le TMGA est : %.2f", (float)(som)/n);
     system("PAUSE");
     return 0;
@@ -219,5 +222,6 @@ int main ()
 
     }
     printf("Le TMGA est : %.2f", (float)(som)/n);
+>>>>>>> e4b1dad5a8ca2c669b3173ad2ad8c2dfa7c34715
     return 0;
 }
