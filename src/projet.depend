@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1379356397 source:c:\users\habib ndiaye\documents\gesprocess\projet\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
+1379356397 c:\users\habib ndiaye\documents\gesprocess\projet\header.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
+1379357354 source:c:\users\habib ndiaye\documents\gesprocess\projet\header.c
+	"header.h"
+
+1379956667 source:c:\users\basileus\desktop\mes projets\projet fin dannée\projet\main.c
+	"header.h"
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
+1379948664 c:\users\basileus\desktop\mes projets\projet fin dannée\projet\header.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<time.h>
+
+1379948706 source:c:\users\basileus\desktop\mes projets\projet fin dannée\projet\header.c
+	"header.h"
+
