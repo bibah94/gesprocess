@@ -1,7 +1,7 @@
 #include "header.h"
 
 
-/*-------------------------------INITIALISER ET GENERER LES NOMBRES----------------------------------------------*/
+/*-------------------------------INITIALISER ET GENERER LES NOMBRES  -----------------------------*/
 int* initialise(int a, int b)
 {
     int taille = b-a;
